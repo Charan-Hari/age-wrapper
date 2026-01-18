@@ -2,9 +2,6 @@
 ```markdown
 age-wrapper — minimal age CLI wrapper
 
-Wrapper around simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability.
-=====================================
-
 Overview
 --------
 age-wrapper is a small, user-friendly CLI wrapper around the `age` tool (https://filippo.io/age/).
